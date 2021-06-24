@@ -1,4 +1,4 @@
 .idea
 .vscode
 rustcord/Cargo.lock
-target
+rustcord/target
