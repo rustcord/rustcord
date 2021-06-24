@@ -1,2 +1,2 @@
 # rustcord
-A custom Discord API wrapper library written in Rust for use in HarTex.
+A custom Discord API wrapper library written in Rust.
